@@ -25,7 +25,6 @@ This project aims to build a machine learning model to predict whether college p
 ├── Makefile           <- Makefile with convenience commands 
 ├── pyproject.toml     <- Project configuration and dependencies
 ├── requirements.txt   <- Required packages for reproducing the environment
-├── setup.cfg          <- Configuration file for code formatting
 
 ```
 
