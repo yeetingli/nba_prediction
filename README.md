@@ -5,7 +5,11 @@
 </a>
 
 ## Project Overview
-This project aims to build a machine learning model to predict whether college players will be drafted in the NBA, based on their current season statistics. The predictive model training was developed as part of a Kaggle competition, where each team member trained the best model of the week and submitted the drafted probability results to Kaggle. Area Under ROC (AUROC) was used to evaluate the model performance. The weekly model training notebooks are stored in the notebooks folder. 
+This project aims to build a machine learning model to predict whether college players will be drafted in the NBA, based on their current season statistics. 
+
+- The predictive model training was developed as part of a Kaggle competition, where each team member trained the best model of the week and submitted the drafted probability results to Kaggle. 
+- Area Under ROC (AUROC) was used to evaluate the model performance. 
+- The weekly model training notebooks are stored in the notebooks folder. 
 
 ## Project Organization
 
